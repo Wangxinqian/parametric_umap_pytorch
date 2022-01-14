@@ -14,7 +14,7 @@ Performance and Examples
 ----------
 
 ----------
-Installing
+Citation
 ----------
 
     @article {NBC2020,
