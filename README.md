@@ -22,6 +22,7 @@ Performance and Examples
 <p align="center">
   <img src="fashion minist.png" alt="" width='60%' height='60%'/>
 </p>
+
 ----------
 Citation
 ----------
