@@ -10,6 +10,17 @@ I mainly took two sorces for reference,
 [umap library source code](https://arxiv.org/abs/1710.10196) and [parametric_umap tutorial](https://colab.research.google.com/drive/1WkXVZ5pnMrm17m0YgmtoNjM_XHdnE5Vp?usp=sharing#scrollTo=qxcSof65XWKM).
 
 ----------
+Prerequisite
+----------
+
+```
+!pip install llvmlite>=0.34.0
+!pip install --upgrade pynndescent
+!pip install https://github.com/lmcinnes/umap/archive/0.5dev.zip
+!pip install torch
+```
+
+----------
 Performance and Examples
 ----------
 
