@@ -13,6 +13,15 @@ I mainly took two sorces for reference,
 Performance and Examples
 ----------
 
+### Minist Dataset
+<p align="center">
+  <img src="https://github.com/Wangxinqian/PatternFlow/blob/566d7c282d2fc64490219a38d07c6cf7379591cf/recognition/Xinqian%20Wang_StyleGAN_s45654897/image/Model%20Structure.png" alt="" width='80%' height='80%'/>
+</p>
+
+### Fashion Minist Dataset
+<p align="center">
+  <img src="https://github.com/Wangxinqian/PatternFlow/blob/566d7c282d2fc64490219a38d07c6cf7379591cf/recognition/Xinqian%20Wang_StyleGAN_s45654897/image/Model%20Structure.png" alt="" width='80%' height='80%'/>
+</p>
 ----------
 Citation
 ----------
