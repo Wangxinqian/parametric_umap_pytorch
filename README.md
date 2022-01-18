@@ -15,12 +15,12 @@ Performance and Examples
 
 ### Minist Dataset
 <p align="center">
-  <img src="minist.png" alt="" width='80%' height='80%'/>
+  <img src="minist.png" alt="" width='60%' height='60%'/>
 </p>
 
 ### Fashion Minist Dataset
 <p align="center">
-  <img src="fashion minist.png" alt="" width='80%' height='80%'/>
+  <img src="fashion minist.png" alt="" width='60%' height='60%'/>
 </p>
 ----------
 Citation
