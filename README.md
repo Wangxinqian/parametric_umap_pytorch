@@ -1,5 +1,6 @@
 # parametric_umap_pytorch
 last update: 14/01/2022
+[![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tH3afTCVbJ-zCDBoyEBIGP3u5Y_COsT7?usp=sharing)
 
 ----------
 Introduction
