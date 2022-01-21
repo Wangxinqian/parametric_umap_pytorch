@@ -8,7 +8,7 @@ pituitary_tumor -> 827
 
 ### Official UMAP Visulization
 <p align="center">
-  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/2dbdf80d34256da5c4166910d2bafd13ca7440aa/Kaggle_Brain_Tumor_MRI/Official%20UMAP_KaggleMRI.png" alt="" width='70%' height='70%'/>
+  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/2dbdf80d34256da5c4166910d2bafd13ca7440aa/Kaggle_Brain_Tumor_MRI/Official%20UMAP_KaggleMRI.png" alt="" width='100%' height='100%'/>
 </p>
 
 
