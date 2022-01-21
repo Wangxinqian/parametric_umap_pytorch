@@ -1,3 +1,11 @@
+## [Dataset Introduction](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
+
+The dataset contains 2870 images. \
+glioma_tumor -> 826 \
+meningioma_tumor -> 822 \
+no_tumor -> 395 \
+pituitary_tumor -> 827
+
 ### Official UMAP Visulization
 <p align="center">
   <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/d3cb9eba1b919885b9e20ce2e80936aab98763c2/Kaggle_Brain_Tumor_MRI/Official%20UMAP_BrainTumor.png" alt="" width='60%' height='60%'/>
