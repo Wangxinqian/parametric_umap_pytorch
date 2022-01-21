@@ -1,11 +1,11 @@
 ### Official UMAP Visulization
 <p align="center">
-  <img src="Kaggle_Brain_Tumor_MRI/Official UMAP_BrainTumor.png" alt="" width='60%' height='60%'/>
+  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/d3cb9eba1b919885b9e20ce2e80936aab98763c2/Kaggle_Brain_Tumor_MRI/Official%20UMAP_BrainTumor.png" alt="" width='60%' height='60%'/>
 </p>
 
 ### Official Paramertric UMAP Visulization
 <p align="center">
-  <img src="Kaggle_Brain_Tumor_MRI/Official Parametric UMAP.png" alt="" width='60%' height='60%'/>
+  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/d3cb9eba1b919885b9e20ce2e80936aab98763c2/Kaggle_Brain_Tumor_MRI/Official%20Parametric%20UMAP.png" alt="" width='60%' height='60%'/>
 </p>
 
 ### self-reproduced Paramertric UMAP Visulization
