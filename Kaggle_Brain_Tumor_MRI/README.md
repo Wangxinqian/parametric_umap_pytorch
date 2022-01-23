@@ -16,11 +16,11 @@ There are two zones which far from the main body of the points and they are all 
 We also circle them and show these points' original images.
 
 <p align="center">
-  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/b547201212601190c6cca14105c65a46e104463e/Kaggle_Brain_Tumor_MRI/bottom%20right.png" alt="" width='100%' height='100%'/>
+  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/2d0bb65fc41868d9697c049a0da653793ba6510c/Kaggle_Brain_Tumor_MRI/bottom_left.png" alt="" width='100%' height='100%'/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/b547201212601190c6cca14105c65a46e104463e/Kaggle_Brain_Tumor_MRI/left%20mid.png" alt="" width='100%' height='100%'/>
+  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/2d0bb65fc41868d9697c049a0da653793ba6510c/Kaggle_Brain_Tumor_MRI/up_right.png" alt="" width='100%' height='100%'/>
 </p>
 
 
