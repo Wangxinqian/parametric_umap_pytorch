@@ -11,6 +11,18 @@ pituitary_tumor -> 827
   <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/2dbdf80d34256da5c4166910d2bafd13ca7440aa/Kaggle_Brain_Tumor_MRI/Official%20UMAP_KaggleMRI.png" alt="" width='100%' height='100%'/>
 </p>
 
+We can see the red point represents no tumor image. \
+There are two zones which far from the main body of the points and they are all labeled as red. \
+We also circle them and show these points' original image.
+
+<p align="center">
+  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/b547201212601190c6cca14105c65a46e104463e/Kaggle_Brain_Tumor_MRI/bottom%20right.png" alt="" width='100%' height='100%'/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/b547201212601190c6cca14105c65a46e104463e/Kaggle_Brain_Tumor_MRI/left%20mid.png" alt="" width='100%' height='100%'/>
+</p>
+
 
 ### Official Paramertric UMAP Visulization
 <p align="center">
