@@ -1,4 +1,4 @@
-## [Dataset Introduction](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
+## [Dataset Introduction](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)
 
 The dataset contains 2870 images. \
 glioma_tumor -> 826 \
