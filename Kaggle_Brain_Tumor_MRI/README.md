@@ -13,7 +13,7 @@ pituitary_tumor -> 827
 
 We can see the red point represents no tumor image. \
 There are two zones which far from the main body of the points and they are all labeled as red. \
-We also circle them and show these points' original image.
+We also circle them and show these points' original images.
 
 <p align="center">
   <img src="https://github.com/Wangxinqian/parametric_umap_pytorch/blob/b547201212601190c6cca14105c65a46e104463e/Kaggle_Brain_Tumor_MRI/bottom%20right.png" alt="" width='100%' height='100%'/>
